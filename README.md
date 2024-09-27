@@ -29,3 +29,8 @@
 [8] Partials and Imports
 
 <dr>
+
+  ![new](https://github.com/user-attachments/assets/a619ae6d-a919-400c-8329-4502c6dff5af)
+
+
+
